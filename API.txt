@@ -1,5 +1,5 @@
 == TODO ==
-
+esto ha sido modificado
 * Add remote branch references (Grit::Remote)
 * Add status - what is modified, staged
 
@@ -36,7 +36,7 @@ g.repack
 
 g.push
 g.push(g.remote('name'))
-   
+
 g.reset # defaults to HEAD
 g.reset_hard(Git::Commit)
 
